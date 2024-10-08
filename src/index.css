@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* background-color: #2e2e; */
+  /* background-image: url(/public/Background\ Texture.png); */
+  width: 100vw;
+  height: 100vh;
+  font-family: "Montserrat";
+  /* padding-top: 40px; */
+
+}
+
+/* #Dashboard {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(/public/BackgroundTexture.png);
+} */

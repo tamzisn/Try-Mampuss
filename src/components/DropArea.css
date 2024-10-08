@@ -1,0 +1,23 @@
+.drop-area {
+    width: 270px;
+    height: 190px;
+    border: 1px dashed #5E60CE;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 30px;
+    margin: 0;
+    opacity: 0.5;
+    transition: all 0.2s ease-in-out;
+    
+}
+
+.hide-drop {
+    opacity: 100%;
+    /* opacity: 0; */
+    background-color: #5E60CE;
+    height: 190px;
+    width: 0.5px;
+    /* display: none; */
+    /* width: 0;
+    height: 0; */
+}
